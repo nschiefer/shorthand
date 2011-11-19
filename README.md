@@ -1,4 +1,5 @@
-= Shorthand =
+Shorthand
+=========
 
 Shorthand is a zippy, keyboard-oriented notetaking app inspired by Notational Velocity.
 
@@ -8,6 +9,7 @@ Shorthand was designed to be a Linux equivalent of Notational Velocity, but shou
 
 Please note that shorthand is still a very early prototype; there will be bugs! Do not use shorthand for anything critical, unless you make very careful backups.
 
-== License ==
+License
+-------
 
 Shorthand is avaiable under the MIT X11 License, included in LICENSE.
